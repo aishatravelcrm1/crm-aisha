@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crm-aisha/static/css/main.c5a03467.css",
+    "main.js": "/crm-aisha/static/js/main.b3932000.js",
+    "index.html": "/crm-aisha/index.html",
+    "main.c5a03467.css.map": "/crm-aisha/static/css/main.c5a03467.css.map",
+    "main.b3932000.js.map": "/crm-aisha/static/js/main.b3932000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a03467.css",
+    "static/js/main.b3932000.js"
+  ]
+}
